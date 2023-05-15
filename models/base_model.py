@@ -1,4 +1,4 @@
-#!/usr/bin/pyhon3
+#!/usr/bin/env pyhon3
 """
 Parent class that will inherit
 """
